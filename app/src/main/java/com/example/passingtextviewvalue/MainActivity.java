@@ -14,7 +14,6 @@ public class MainActivity extends AppCompatActivity {
     TextView textView;
     Button btnGetText, btnPassText;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
